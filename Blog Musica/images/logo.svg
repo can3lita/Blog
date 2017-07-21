@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<svg width="144" height="159" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <filter id="svg_3_blur">
+   <feGaussianBlur stdDeviation="0.6"/>
+  </filter>
+  <pattern id="gridpattern" patternUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+   <image id="svg_1" x="0" y="0" width="100" height="100"/>
+  </pattern>
+  <filter id="svg_4_blur">
+   <feGaussianBlur stdDeviation="0.4"/>
+  </filter>
+  <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+   <image height="100" width="100" y="0" x="0" id="svg_9"/>
+  </pattern>
+  <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+   <image xlink:href="data:image/png;svgedit_url=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAB80lEQVR4Xu3c0U0DMRCE4UkZdMAzDSK6QGkGKuCZDmgDgVAQxE5WiqXz3X08Wyex5%2FXsP%2BPcIclLktdc%2F7tL8nF9WaxrF6lUl0OSxyRPhUI%2FJHmz7qwCQ%2BvihfR32NBCJyk9zwvxQk4VKO2Y6s7ayjodokN0yKXBSIfoEB2iQ%2F5WYOph4uvIek5yLADffZJ3684qMLQuNISG0BAasjINYS62t%2Bwi4k9DaAgNoSE0RJDV6IKSJtGQCTUEqbdfylACT1J6ng6ZsENwCA75rkBJ5Pa2zpHlyAKGwBAYAkNguJEhgahPKOpIHanjkF5jOrImPLJYJ6wTR5Yj67cCU3toNISG8LJ4WbwsXtYtXhZSR%2BrGXmOvsffSLKFDdIgO0SH%2FKlByCJA6UkfqSB2pI3WkXrxdXr2FvtQ6ok7UiTpRJ%2BpE%2FRZRd%2BvErRPmInORuchcZC5u4MvbvijXb%2BTS78pHEz1SR%2BpIHakjdaSO1P3os3sSlsL8vX0yo%2Fr%2FmrJMWaYsU9bKpiy339tbFql3WnlXQwJRJ%2BpEnaivTNRl6jJ1mbpMXaYuU5epy9SbXbAI4Y7Otpd6HjAEhsAQGAJDmbpMXaYuU%2F%2BpwNB4wJRlyjJlmbJWNmXJ1GXq7Hf2O%2Fud%2Fc5%2B34j9LlOXqRN1ok7UiTpR34CofwJwAerTWMYY8QAAAABJRU5ErkJggg%3D%3D;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAB80lEQVR4Xu3c0U0DMRCE4UkZdMAzDSK6QGkGKuCZDmgDgVAQxE5WiqXz3X08Wyex5/XsP+PcIclLktdc/7tL8nF9WaxrF6lUl0OSxyRPhUI/JHmz7qwCQ+vihfR32NBCJyk9zwvxQk4VKO2Y6s7ayjodokN0yKXBSIfoEB2iQ/5WYOph4uvIek5yLADffZJ3684qMLQuNISG0BAasjINYS62t+wi4k9DaAgNoSE0RJDV6IKSJtGQCTUEqbdfylACT1J6ng6ZsENwCA75rkBJ5Pa2zpHlyAKGwBAYAkNguJEhgahPKOpIHanjkF5jOrImPLJYJ6wTR5Yj67cCU3toNISG8LJ4WbwsXtYtXhZSR+rGXmOvsffSLKFDdIgO0SH/KlByCJA6UkfqSB2pI3WkXrxdXr2FvtQ6ok7UiTpRJ+pE/RZRd+vErRPmInORuchcZC5u4MvbvijXb+TS78pHEz1SR+pIHakjdaSO1P3os3sSlsL8vX0yo/r/mrJMWaYsU9bKpiy339tbFql3WnlXQwJRJ+pEnaivTNRl6jJ1mbpMXaYuU5epy9SbXbAI4Y7Otpd6HjAEhsAQGAJDmbpMXaYuU/+pwNB4wJRlyjJlmbJWNmXJ1GXq7Hf2O/ud/c5+34j9LlOXqRN1ok7UiTpR34CofwJwAerTWMYY8QAAAABJRU5ErkJggg==" height="100" width="100" y="0" x="0" id="svg_2"/>
+  </pattern>
+  <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+   <image height="100" width="100" y="0" x="0" id="svg_10"/>
+  </pattern>
+  <pattern id="gridpattern" patternUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+   <image id="svg_3" x="0" y="0" width="100" height="100"/>
+  </pattern>
+  <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+   <image height="100" width="100" y="0" x="0"/>
+  </pattern>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#fa5b75" d="m9.793433,141.148763l23.25,-134.00002l77.5,0l23.24999,134.00002l-123.99999,0z" stroke-width="5" fill="#fa5b75" id="svg_12"/>
+  <path transform="rotate(16.709699630737305 71.65785980224612,68.34019470214842) " fill="#ffd464" stroke-width="5" d="m84.978833,9.256583c-1.55481,0.07909 -2.96823,0.80966 -4.12309,1.80376c0.00532,5.33028 -6.5766,9.91346 -8.80056,13.60378c1.36371,0.73148 0.66855,1.16133 -0.60998,1.7534c-0.10058,0.99635 0.27688,1.96716 1.46015,2.9122c-1.53292,16.57965 -3.564,36.49614 -5.15786,53.23635c3.63737,0.05464 7.30905,0.44225 11.12982,0.272c-0.00414,-12.88941 1.50216,-33.48041 1.94174,-45.93053c-0.05976,-4.04218 -0.29818,-9.51374 7.7646,-11.42717c-4.10889,-5.85311 3.50366,-14.13498 -3.29067,-16.22378c-0.08638,-0.00048 -0.17335,-0.0035 -0.25914,0c-0.01833,0.00074 -0.03668,-0.00093 -0.05502,0l0,0l0,0l0.00001,-0.00001zm6.91738,68.00604c-2.78955,2.63965 -6.97654,4.02658 -8.36925,5.3866c-3.18062,3.35271 -8.5071,-1.25391 -15.90904,1.18619c0.03846,-0.40543 0.09052,-0.85995 0.12956,-1.26934c-0.04259,-0.00079 -0.08696,0.0004 -0.12956,0c-3.93969,0.40107 -7.19249,-3.05379 -7.45104,-6.11668c3.28475,-4.70758 -8.42605,-7.12907 -11.53686,-2.30786c-2.33281,5.38659 -0.24257,10.89275 2.8292,16.10316c3.51016,6.39898 -5.24838,11.94869 -7.82093,17.88642c-2.44789,3.7621 -2.52681,8.10463 1.58983,11.55791c5.61224,5.37827 17.40173,7.37533 28.13989,7.4268c1.91335,0.08869 3.81486,0.16391 5.73116,0.23161c34.08817,1.30023 20.32499,-13.91169 14.95769,-27.08657c-3.4445,-8.57697 0.8768,-14.40384 3.70895,-16.87205c1.57315,-2.91007 3.56696,-9.10633 -5.86961,-6.12579l0,-0.0004l0,0l0.00001,0zm-20.45101,-50.8451c1.44063,-4.71866 -4.7946,0.28071 0,0z" stroke="#000000" filter="url(#svg_4_blur)" id="svg_13"/>
+  <text stroke="#ffff00" filter="url(#svg_3_blur)" font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="Fantasy" font-size="24" y="152.850853" x="71.347783" stroke-linecap="square" stroke-linejoin="bevel" stroke-dasharray="null" stroke-width="0" fill="#000000" opacity="0.8" id="svg_14">li.music</text>
+ </g>
+</svg>
